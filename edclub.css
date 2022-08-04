@@ -1,0 +1,271 @@
+html,body{
+    margin: 0;
+    overflow-x:  hidden;
+    width: 100%;
+}
+.header{
+    width: 100%;
+    height: 72px;
+    background: #f5f3f0;
+    border-style: outset;
+    border-width: 1px;
+    display: flex;
+}
+.nav-left{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    
+}
+.logo{
+    height: 72px;
+    width:160px;
+    margin-left: 140px;
+}    
+.edclub-logo{
+    width: 130px;
+    height: 40px;
+    position: relative;
+    top: 8px;
+}
+.library{
+    height: 100%;
+    width: 100px;
+}
+.library:hover{
+    background: white;
+}
+.school-edition{
+    height: 100%;
+    width: 156px;
+}
+.school-edition:hover{
+    background: white;
+}
+.products{
+    height: 100%;
+    width: 122px;
+    display: flex;
+}
+.products:hover{
+    background: white;
+}
+.caret-down{
+    height: 13px;
+    width: 10px;
+}
+.nav-right{
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+.english{
+    height: 100%;
+    width: 105px;
+    margin-left: 290px;
+    display: flex;
+}
+.english:hover{
+    background: white;
+}
+.globe-logo{
+    height: 25px;
+    width: 25px;
+}
+.login{
+    width: 85px;
+    height: 100%;
+}
+.login:hover{
+    background: white;
+}
+.sign-up{
+    border: 1px solid  #2b3749;
+    border-radius: 16px;
+    margin-left: 13px;
+    height: 30px;
+    width: 80px;
+    margin-top: 20px;
+}
+.sign-up:hover{
+    background: #2b3749;
+    color: white;
+}
+.content{
+    margin-top: 0;
+    height: 500px;
+    width: 100%;
+    background:  #f5f3f0;
+    display: flex;
+}
+.content-left{
+    height: 500px;
+    width:50%
+}
+.browse-courses{
+    border: 1px solid  #2b3749;
+    border-radius: 19px;
+    height: 40px;
+    width: 150px;
+    margin-left: 140px;
+    margin-top: 100px;
+    color: white;
+    background: #2b3749;
+
+}
+.browse-courses:hover{
+    background: #556576;
+}
+.content-right{
+    height: 500px;
+    width: 50%;
+}
+.hero{
+    height: 500px;
+    width: 480px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+}
+.content2{
+    width: 100%;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+}
+.effect{
+    height:100%;
+    width: 350px;
+}
+.power{
+    height: 100%;
+    width: 350px;
+}
+.unleash{
+    height: 100%;
+    width: 350px;
+}
+.content3{
+    width: 100%;
+    height: 1000px;
+    background: #f5f3f0;
+}
+.curve{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: -44px;
+    left: 580px;
+}
+.typing-ed{
+    width: 550px;
+    position: relative;
+    left: 90px;
+    top: -20px;
+    float: left;
+}
+.content4{
+    width: 100%;
+    height: 466px;
+    background: #f5f3f0;
+    margin-top: -18px;
+    display: flex;
+}
+.left4{
+    height: 100%;
+    width: 40%;
+}
+right4{
+    height: 100%;
+    width: 60%;
+}
+.spelling-ed{
+    width: 970px;
+    position: relative;
+    left: -120px;
+    top: -75px;
+}
+.content5{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.google-partner{
+    height: 100%;
+    width: 250px;
+}
+.privacy-pledge{
+    height: 100%;
+    width: 250px;
+}
+.common-sense{
+    height: 100%;
+    width: 250px;
+}
+.iste{
+    height: 100%;
+    width: 250px;
+}
+.footer{
+    height: 330px;
+    width: 100%;
+    background: #2b3749;
+    border-bottom: 1px #556576 solid;
+    display: flex;
+    justify-content: center;
+}
+.flogo{
+    width: 320px;
+    height: 100%;
+}
+.flogo2{
+    height: 40px;
+    width: 40px;
+    margin-top: 70px;
+}
+.product{
+    width: 210px;
+    height: 100%;
+}
+.editions{
+    width: 190px;
+    height: 100%;
+}
+.resourses{
+    width: 190px;
+    height: 100%;
+}
+.company{
+    width: 150px;
+    height: 100%;
+}
+.footer2{
+    height: 70px;
+    width: 100%;
+    background: #2b3749;
+    display: flex;
+}
+.left-foot{
+    height: 100%;
+    width: 50%;
+}
+.right-foot{
+    height: 100%;
+    width: 50%;
+}
+.logo-end{
+    padding-left: 10px;
+}
+.logo-end:hover{
+    color: white;
+}
+.footer-links{
+    color: white;
+}
+.footer-links:hover{
+    text-decoration: underline;
+    color:  #cd964d;
+}
+
